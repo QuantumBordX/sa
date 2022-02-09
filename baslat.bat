@@ -3,5 +3,5 @@ title Bot Panel
 color 0f
 cls
 :a
-::#region server.js
+node server.js
 goto a
